@@ -10,6 +10,6 @@ public class HelloController {
     @RequestMapping("hello")
     @ResponseBody
     public String hello(){
-        return "hello SpringBoot1112222";
+        return "hello SpringBoot";
     }
 }
